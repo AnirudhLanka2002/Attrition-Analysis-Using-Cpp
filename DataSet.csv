@@ -1,0 +1,11 @@
+Employee ID,Age,Gender,Department,Years of Experience,Month of Leave,Salary,Attrition
+1,30,M,HR,5,6,50000,0
+2,35,F,Finance,7,8,60000,0
+3,25,M,IT,3,3,45000,1
+4,40,F,Sales,10,12,70000,0
+5,28,F,IT,4,9,52000,1
+6,32,M,Finance,8,7,55000,0
+7,27,M,HR,2,5,48000,1
+8,45,F,Sales,12,10,75000,0
+9,29,F,IT,6,11,58000,0
+10,38,M,Sales,9,4,63000,1
